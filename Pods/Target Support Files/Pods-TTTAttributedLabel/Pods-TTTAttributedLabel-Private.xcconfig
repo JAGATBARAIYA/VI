@@ -1,0 +1,6 @@
+#include "Pods-TTTAttributedLabel.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/TTTAttributedLabel" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/BNEasyGoogleAnalytics" "${PODS_ROOT}/Headers/Public/GoogleAnalytics-iOS-SDK" "${PODS_ROOT}/Headers/Public/INTULocationManager" "${PODS_ROOT}/Headers/Public/MFSideMenu" "${PODS_ROOT}/Headers/Public/SFHFKeychainUtils" "${PODS_ROOT}/Headers/Public/SVGeocoder" "${PODS_ROOT}/Headers/Public/TTTAttributedLabel"
+OTHER_LDFLAGS = ${PODS_TTTATTRIBUTEDLABEL_OTHER_LDFLAGS} -ObjC
+PODS_ROOT = ${SRCROOT}
+SKIP_INSTALL = YES

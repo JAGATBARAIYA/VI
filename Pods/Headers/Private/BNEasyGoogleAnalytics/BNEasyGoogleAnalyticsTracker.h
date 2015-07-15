@@ -1,0 +1,1 @@
+../../../BNEasyGoogleAnalytics/Pod/Classes/BNEasyGoogleAnalyticsTracker.h

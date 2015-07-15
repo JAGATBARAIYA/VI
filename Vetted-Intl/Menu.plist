@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>TRAVEL ALERTS</string>
+		<key>ImgName</key>
+		<string>menu_home</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CURRENCY CONVERTER</string>
+		<key>ImgName</key>
+		<string>menu_currencyconverter</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GLOBAL INFORMATION</string>
+		<key>ImgName</key>
+		<string>menu_globalinfo</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MY DOCUMENTS</string>
+		<key>ImgName</key>
+		<string>menu_mydocuments</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>REGISTERED TRIP</string>
+		<key>ImgName</key>
+		<string>menu_registration</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ADDITIONAL TRAVELERS</string>
+		<key>ImgName</key>
+		<string>menu_members</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PROFILE</string>
+		<key>ImgName</key>
+		<string>menu_profile</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ABOUT</string>
+		<key>ImgName</key>
+		<string>menu_about</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>LOGOUT</string>
+		<key>ImgName</key>
+		<string>menu_logout</string>
+	</dict>
+</array>
+</plist>
